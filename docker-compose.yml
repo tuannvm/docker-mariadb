@@ -15,4 +15,4 @@ maria-db-con:
    - data-con
   stdin_open: true
   environment:
-   - MYSQL_ROOT_PASSWORD=Y3ryg8JZ5VFZ
+   - MYSQL_ROOT_PASSWORD=<mysql-password>
